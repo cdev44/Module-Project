@@ -1,0 +1,47 @@
+#output {
+  border: solid 2px;
+  border-color: blue;
+}
+html {
+  margin: 0 auto;
+  background-color: black;
+  padding-top: 25px;
+  padding-left: 300px;
+  padding-right: 300px;
+  border-radius: 30px;
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+body {
+  text-align: center;
+  background-color: dimgray;
+}
+.button {
+  margin-top: 15px;
+}
+h1,
+h2,
+p,
+button,
+span,
+select,
+b,
+option {
+  color: white;
+}
+button,
+input,
+select {
+  background-color: slategray;
+}
+#light-mode {
+  color: black;
+  background-color: white;
+}
+#dark-mode {
+  color: white;
+  background-color: black;
+}
+button {
+}
